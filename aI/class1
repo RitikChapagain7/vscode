@@ -1,0 +1,11 @@
+#Porgram to sort alphabetically
+my str="Hello this is an Example With cased letters"
+Words=my.str.split()
+Words.sort()
+print("The stored words are:")
+for word in words:
+    print(word)
+
+#caed shiffle 
+import itertools,random
+deck
